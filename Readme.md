@@ -1,4 +1,4 @@
-<h1 style="align: center"> New Devs C&A </h1>
+<h1 align="center"> New Devs C&A </h1>
 
 <h2> Descrição do projeto </h2>
 
@@ -9,8 +9,16 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce est dolor, euismod ut pretium ac, condimentum ac libero. Vestibulum aliquet neque eget magna mollis convallis. Cras vitae rhoncus justo. Sed neque turpis, lacinia eget luctus ac, finibus at metus. Pellentesque augue enim, ullamcorper quis sodales sed, iaculis nec arcu. Nunc vestibulum imperdiet mi nec hendrerit. Vivamus vel convallis lectus. Ut sodales urna erat, congue suscipit mauris pretium molestie. Maecenas faucibus mollis lacus a sodales. Sed tempor tempor porttitor.</p>
 
 <h2> Tecnologias utilizadas para criar </h2>
-* C#
-* JavaScript
-* MySQL
-* CSS
-* HTML
+<div align="start">
+  <p> ▪️ C# </p>
+  <p> ▪️ JavaScript </p>
+  <p> ▪️ MySQL </p>
+  <p> ▪️ CSS </p>
+  <p> ▪️ HTML </p>
+</div>
+
+ ### Features
+- [x] Listagem dos produtos
+- [x] Cadastro de novo produto
+- [x] Detalhes do produto
+- [x] Exclusão do produto
