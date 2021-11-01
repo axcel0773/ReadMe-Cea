@@ -24,4 +24,3 @@
 - [x] Detalhes do produto
 - [x] Alterar quantidade do produto
 - [x] Exclusão do produto
-
