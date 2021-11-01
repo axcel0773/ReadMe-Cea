@@ -5,7 +5,7 @@ O Front End do projeto foi baseado com o layout criado no Figma, pensando em um 
 
 Na criação do CSS, foi utilizado de forma pura com criações de variáveis CSS para deixar a criação de estilos de uma forma intuitiva e reduzir o código com CSS desnecessários.
 
-<div align="center">
+<div align="start">
     <img src="/images/cssvariablesprint.png" alt="Pequeno bloco de variaveis css">
     <img src="/images/cssvariablesprintbtn.png" alt="Pequeno bloco de variaveis css">
 </div>
