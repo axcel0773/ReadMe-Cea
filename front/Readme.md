@@ -7,4 +7,5 @@ Na criação do CSS, foi utilizado de forma pura com criações de variáveis CS
 
 <div align="center">
     <img src="/images/cssvariablesprint.png" alt="Pequeno bloco de variaveis css">
+    <img src="/images/cssvariablesprintbtn.png" alt="Pequeno bloco de variaveis css">
 </div>
